@@ -102,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568642373543</updated>
-      <workItem from="1568642380404" duration="8362000" />
+      <workItem from="1568642380404" duration="8574000" />
     </task>
     <servers />
   </component>
@@ -122,6 +122,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Softdev_work_$test.coverage" NAME="test Coverage Results" MODIFIED="1568981624037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classwork(week of 9-16-19)/Flask Basics" />
-    <SUITE FILE_PATH="coverage/Softdev_work_$dothisthing.coverage" NAME="dothisthing Coverage Results" MODIFIED="1568982300494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_csv" />
+    <SUITE FILE_PATH="coverage/Softdev_work_$dothisthing.coverage" NAME="dothisthing Coverage Results" MODIFIED="1568982543940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_csv" />
   </component>
 </project>
