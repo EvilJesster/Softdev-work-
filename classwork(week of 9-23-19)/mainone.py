@@ -14,7 +14,8 @@ def authenticate():
     print(app)
     print(request)
     print(request.args)
-    return("AHHHHHHH")
+
+    return render_template('auth.html', user = request.args['username'], requestmethod = request.method, )
     # page = open("renstart.html", "r")
     # html = page.read()
 

@@ -1,0 +1,15 @@
+
+        {% extends "tempheader.html" %}
+        {% block bodies %}
+        {% if user %}
+
+        Hello
+            {{user}} , this is a flask driven site
+        {% endif %}
+
+        <br>
+
+        {% if requestmethod %}
+            you used {{requestmethod}} to contact us
+        {% endif %}
+    {% endblock %}
